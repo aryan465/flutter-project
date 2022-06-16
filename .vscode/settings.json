@@ -1,0 +1,5 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "git.ignoreLimitWarning": true
+}
